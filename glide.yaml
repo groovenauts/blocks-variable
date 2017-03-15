@@ -1,0 +1,5 @@
+package: github.com/groovenauts/blocks-variable
+testImport:
+- package: github.com/stretchr/testify
+  subpackages:
+  - assert
